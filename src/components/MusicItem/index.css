@@ -1,0 +1,37 @@
+.music-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.music-label {
+  display: flex;
+  align-items: center;
+}
+.music-image {
+  height: 40px;
+  width: 40px;
+}
+.music-content: {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.music-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+}
+.music-artist {
+  color: ;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: normal;
+}
+.music-duration {
+  color: ;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: normal;
+}

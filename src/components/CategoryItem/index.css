@@ -1,0 +1,24 @@
+.element {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 0px;
+}
+.element-preview-card {
+  width: 75px;
+  height: 75px;
+  border-radius: 10px;
+}
+.element-preview-image {
+  width: 100%;
+  z-index: -1;
+}
+.element-preview-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 6px;
+}

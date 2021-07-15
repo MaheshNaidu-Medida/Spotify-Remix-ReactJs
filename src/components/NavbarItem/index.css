@@ -1,0 +1,22 @@
+.nav-item {
+  color: #393b40;
+  font-size: 13px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.selected {
+  border-left: 2px solid green;
+  background-color: #393b40;
+  color: #ffffff;
+}
+.nav-btn {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

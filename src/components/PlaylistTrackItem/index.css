@@ -1,0 +1,14 @@
+.track-details {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 400;
+}
+.track {
+  display: flex;
+  justify-content: space-around;
+}
+.track:hover {
+  background-color: ;
+  cursor: pointer;
+}
